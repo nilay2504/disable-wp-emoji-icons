@@ -1,6 +1,5 @@
 === Plugin Name ===
 Contributors: gr8nilay
-Donate link: http://nilaypatel.info/donations/?plugin=disable-wp-theme-updates-advance
 Tags: disable emojiicons, emojis, emoctions, disable, page load speed, remove extra code
 Requires at least: 3.0.1
 Tested up to: 5.2.1
